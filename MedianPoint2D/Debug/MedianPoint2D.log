@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\media\documents\visual studio 2015\projects\medianpoint2d\medianpoint2d\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MedianPoint2D.cpp
+d:\media\documents\visual studio 2015\projects\medianpoint2d\medianpoint2d\medianpoint2d.cpp(17): warning C4018: '<': signed/unsigned mismatch
+d:\media\documents\visual studio 2015\projects\medianpoint2d\medianpoint2d\medianpoint2d.cpp(32): warning C4018: '<': signed/unsigned mismatch
+d:\media\documents\visual studio 2015\projects\medianpoint2d\medianpoint2d\medianpoint2d.cpp(46): warning C4018: '<': signed/unsigned mismatch
+d:\media\documents\visual studio 2015\projects\medianpoint2d\medianpoint2d\medianpoint2d.cpp(61): warning C4018: '<': signed/unsigned mismatch
+d:\media\documents\visual studio 2015\projects\medianpoint2d\medianpoint2d\medianpoint2d.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MedianPoint2D.vcxproj -> d:\media\documents\visual studio 2015\Projects\MedianPoint2D\Debug\MedianPoint2D.exe
